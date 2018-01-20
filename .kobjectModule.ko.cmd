@@ -1,0 +1,1 @@
+cmd_/home/faye/work/work_normal/gcc_test/kobject_test/kobjectModule.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/faye/work/work_normal/gcc_test/kobject_test/kobjectModule.ko /home/faye/work/work_normal/gcc_test/kobject_test/kobjectModule.o /home/faye/work/work_normal/gcc_test/kobject_test/kobjectModule.mod.o
